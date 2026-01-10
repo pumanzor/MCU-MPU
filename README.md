@@ -24,13 +24,13 @@ Curso de arquitectura de computadores enfocado en la comprensión profunda de mi
 
 ## 👨‍🏫 Instructor
 
-<img src="https://img.shields.io/badge/LinkedIn-Pablo_Umanzor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-
 **Prof. Pablo Umanzor A.**
 
 *Master en Inteligencia Artificial | Ingeniero Electrónico*
 
-[![LinkedIn](https://img.shields.io/badge/Conectar_en_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pumanzor/)
+<a href="https://www.linkedin.com/in/pumanzor/">
+  <img src="https://img.shields.io/badge/LinkedIn-Pablo_Umanzor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ---
 
