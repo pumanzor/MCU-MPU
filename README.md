@@ -12,7 +12,7 @@
 
 ---
 
-Curso de arquitectura de computadores enfocado en la comprensión profunda de microprocesadores y microcontroladores, desde los fundamentos teóricos hasta la implementación práctica en plataformas modernas.
+Curso de arquitectura de Microprocesadores y microcrontroladores.
 
 <br>
 
