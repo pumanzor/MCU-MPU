@@ -46,7 +46,7 @@ Curso de arquitectura de Microprocesadores y microcontroladores.
 | 6 | Arquitectura de Buses |
 | 7 | RISC vs CISC |
 | 8 | Arquitectura ARM |
-| 9 | Plataformas: ESP32, RPi Pico, Orange Pi |
+| 9 | Plataformas: ESP32, RPi Pico, STM32 |
 | 10 | Laboratorios Prácticos |
 
 ---
@@ -57,7 +57,7 @@ Curso de arquitectura de Microprocesadores y microcontroladores.
 |------------|--------------|-----------------|
 | **ESP32** | Xtensa LX6/LX7 | Dual-core 240MHz, WiFi+BT |
 | **RPi Pico** | ARM Cortex-M0+ | Dual-core 133MHz, PIO |
-| **Orange Pi Zero 2** | ARM Cortex-A53 | Quad-core 1.5GHz, Linux |
+| **STM32F103C8T6** | ARM Cortex-M3 | 72MHz, 64KB Flash, 20KB SRAM |
 
 ---
 
