@@ -12,7 +12,7 @@
 
 ---
 
-Curso de arquitectura de Microprocesadores y microcrontroladores.
+Curso de arquitectura de Microprocesadores y microcontroladores.
 
 <br>
 
