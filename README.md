@@ -26,7 +26,7 @@ Curso de arquitectura de Microprocesadores y microcontroladores.
 
 **Prof. Pablo Umanzor A.**
 
-*Master en Inteligencia Artificial | Ingeniero Electrónico*
+*Master en Inteligencia Artificial | Ingeniero Electrónico* | pumanzor@acapomil.cl
 
 <a href="https://www.linkedin.com/in/pumanzor/">
   <img src="https://img.shields.io/badge/LinkedIn-Pablo_Umanzor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
